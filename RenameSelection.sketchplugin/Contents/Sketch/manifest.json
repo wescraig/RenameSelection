@@ -1,0 +1,17 @@
+{
+    "name" : "Rename Selection",
+    "identifier" : "com.wescraig.sketch.artboardsequence",
+    "version" : "1.0",
+    "description" : "Easily rename your selection in sequence",
+    "author" : "Wes Craig",
+    "commands" : [
+    {
+      "script" : "main.js",
+      "handler" : "onRun",
+      "name" : "Rename Selection",
+      "shortcut" : "command control r",
+      "identifier" : "my.plugin.real.pagenames"
+    }
+  ]
+
+  }
